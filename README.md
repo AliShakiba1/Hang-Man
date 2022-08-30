@@ -1,5 +1,5 @@
-# hangs Man
-##this is a hang-man game with js html css
+# Hangs Man
+## this is a hang-man game with js html css
 
 you can use keybord to select word
 
